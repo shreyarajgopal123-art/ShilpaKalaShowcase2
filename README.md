@@ -22,6 +22,7 @@ This app bridges the gap between **Ancient Art** and the **Modern Buyer** — em
 | 📲 **Order Inquiry (WhatsApp)** | One-tap enquiry with pre-filled WhatsApp message |
 | 📜 **Heritage Story** | Educational section on Hoysala, Chalukya carving styles |
 | 🔍 **Zoom Feature** | Pinch-to-zoom to see intricate carving details |
+| 🔐 **Login Screen** | Secure sign in to Artisan Digital Portfolio |
 
 ---
 
@@ -36,9 +37,12 @@ This app bridges the gap between **Ancient Art** and the **Modern Buyer** — em
 
 ## 📱 Screenshots
 
-| Home Screen | Artist Gallery | Detail Screen |
-|------------|---------------|---------------|
-| ![Home](home_screen.png.png) | ![Gallery](artist_gallery.png.png) | ![Detail](detail_screen.png.png) |
+<p align="center">
+<img src="login_page_png.png" width="200"/>
+<img src="detail_screen.png.png" width="200"/>
+<img src="sclupture_image,png.png" width="200"/>
+<img src="enquiry_page .png.png" width="200"/>
+</p>
 
 ---
 
