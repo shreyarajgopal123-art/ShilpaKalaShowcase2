@@ -34,6 +34,14 @@ This app bridges the gap between **Ancient Art** and the **Modern Buyer** — em
 
 ---
 
+## 📱 Screenshots
+
+| Home Screen | Artist Gallery | Detail Screen |
+|------------|---------------|---------------|
+| ![Home](home_screen.png.png) | ![Gallery](artist_gallery.png.png) | ![Detail](detail_screen.png.png) |
+
+---
+
 ## 🚀 Getting Started
 
 1. Clone the repository
@@ -50,6 +58,14 @@ This app bridges the gap between **Ancient Art** and the **Modern Buyer** — em
 - 🧑‍🎨 Artisanal Empowerment — Giving rural masters a global window
 - 📦 Export Potential — Facilitating Make in India for traditional crafts
 - 🏺 Heritage Preservation — Documenting rare carving techniques digitally
+
+---
+
+## ✅ Success Criteria
+
+- App handles at least 20 high-resolution images without slowing down
+- Inquiry button includes the specific Product ID in the WhatsApp message
+- UI feels like a premium art gallery — minimalist and clean
 
 ---
 
