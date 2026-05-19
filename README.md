@@ -41,7 +41,7 @@ This app bridges the gap between **Ancient Art** and the **Modern Buyer** — em
 <img src="login_page_png.png" width="200"/>
 <img src="detail_screen.png.png" width="200"/>
 <img src="sclupture_image_png.png" width="200"/>
-<img src="enquiry_page__png.png" width="200"/>
+<img src="enquiry_page .png.png" width="200"/>
 </p>
 
 ---
