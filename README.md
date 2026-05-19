@@ -35,18 +35,6 @@ This app bridges the gap between **Ancient Art** and the **Modern Buyer** — em
 
 ---
 
-## 📱 Screenshots
-
-| Login | Home Screen | Artist Gallery |
-|-------|------------|----------------|
-| ![Login](login_page_png.png) | ![Home](home_screen.png.png) | ![Gallery](artist_gallery.png.png) |
-
-| Detail Screen | Sculpture Gallery |
-|---------------|-------------------|
-| ![Detail](detail_screen.png.png) | ![Sculpture](sclupture_image_png.png) |
-
----
-
 ## 🚀 Getting Started
 
 1. Clone the repository
