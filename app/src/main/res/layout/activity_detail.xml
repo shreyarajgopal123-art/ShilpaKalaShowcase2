@@ -13,28 +13,29 @@
             android:layout_width="match_parent"
             android:layout_height="250dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/ganesha" />
+            android:src="@drawable/sculpture1" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sculpture ID: SC001"
-            android:textSize="18sp"
+            android:text="Ganesha Sculpture"
+            android:textSize="24sp"
             android:textStyle="bold"
-            android:layout_marginTop="12dp"/>
+            android:paddingTop="16dp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Traditional handcrafted sculpture made by skilled artisans."
-            android:layout_marginTop="8dp"/>
+            android:text="Beautiful handcrafted stone sculpture created by traditional artisans from Karnataka."
+            android:textSize="16sp"
+            android:paddingTop="8dp" />
 
         <Button
-            android:id="@+id/btnWhatsApp"
+            android:id="@+id/btnWhatsapp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Enquire on WhatsApp"
-            android:layout_marginTop="16dp"/>
+            android:layout_marginTop="24dp" />
 
     </LinearLayout>
 

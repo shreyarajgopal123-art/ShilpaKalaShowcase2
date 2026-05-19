@@ -16,18 +16,15 @@ class MainActivity : AppCompatActivity() {
         val btnTimeline = findViewById<Button>(R.id.btnTimeline)
 
         btnGallery.setOnClickListener {
-            val intent = Intent(this, DetailActivity::class.java)
-            startActivity(intent)
+            startActivity(Intent(this, GalleryActivity::class.java))
         }
 
         btnHeritage.setOnClickListener {
-            val intent = Intent(this, HeritageActivity::class.java)
-            startActivity(intent)
+            startActivity(Intent(this, HeritageActivity::class.java))
         }
 
         btnTimeline.setOnClickListener {
-            val intent = Intent(this, TimelineActivity::class.java)
-            startActivity(intent)
+            startActivity(Intent(this, TimelineActivity::class.java))
         }
     }
 }

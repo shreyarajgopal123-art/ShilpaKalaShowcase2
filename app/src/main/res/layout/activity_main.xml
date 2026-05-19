@@ -1,30 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
     android:orientation="vertical"
-    android:padding="24dp">
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="#F5F5F5">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shilpa-Kala Showcase"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:paddingBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Preserving Traditional Stone Carving Heritage"
+        android:textSize="16sp"
+        android:textColor="#555555"
+        android:gravity="center"
+        android:paddingBottom="32dp"/>
 
     <Button
         android:id="@+id/btnGallery"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Artist Gallery" />
-
-    <Button
-        android:id="@+id/btnHeritage"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:text="Heritage Story" />
+        android:text="View Gallery"
+        android:layout_marginBottom="16dp"/>
 
     <Button
         android:id="@+id/btnTimeline"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:text="Work in Progress Timeline" />
+        android:text="Work Progress Timeline"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btnHeritage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Heritage Story"/>
 
 </LinearLayout>
