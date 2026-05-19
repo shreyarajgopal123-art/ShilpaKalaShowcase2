@@ -3,21 +3,29 @@
 
     <application
         android:allowBackup="true"
-        android:label="Shilpa Kala Showcase"
-        android:theme="@style/Theme.ShilpaKalaShowcase"
-        android:supportsRtl="true">
+        android:icon="@mipmap/ic_launcher"
+        android:label="ShilpaKalaShowcase"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ShilpaKalaShowcase">
 
         <activity android:name=".DetailActivity" />
+
         <activity android:name=".GalleryActivity" />
+
         <activity android:name=".TimelineActivity" />
+
         <activity android:name=".HeritageActivity" />
 
+        <activity android:name=".MainActivity" />
+
         <activity
-            android:name=".MainActivity"
+            android:name=".LoginActivity"
             android:exported="true">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
 
