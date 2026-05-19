@@ -15,4 +15,70 @@ This app bridges the gap between **Ancient Art** and the **Modern Buyer** — em
 
 ## ✨ Features
 
-| Feature | Description
+| Feature | Description |
+|--------|-------------|
+| 🖼️ **Artist Portfolio** | High-quality image gallery of sculptures |
+| ⏳ **Work-in-Progress Timeline** | Shows how stone transforms into a statue |
+| 📲 **Order Inquiry (WhatsApp)** | One-tap enquiry with pre-filled WhatsApp message |
+| 📜 **Heritage Story** | Educational section on Hoysala, Chalukya carving styles |
+| 🔍 **Zoom Feature** | Pinch-to-zoom to see intricate carving details |
+| 🔐 **Login Screen** | Secure sign in to Artisan Digital Portfolio |
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Kotlin
+- **Platform:** Android (API 21+)
+- **Image Loading:** Glide
+- **WhatsApp Integration:** Android Intents
+
+---
+
+## 📱 Screenshots
+
+| Login | Home Screen | Artist Gallery |
+|-------|------------|----------------|
+| ![Login](login_page_png.png) | ![Home](home_screen.png.png) | ![Gallery](artist_gallery.png.png) |
+
+| Detail Screen | Sculpture Gallery |
+|---------------|-------------------|
+| ![Detail](detail_screen.png.png) | ![Sculpture](sclupture_image_png.png) |
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository
+   git clone https://github.com/shreyarajgopal123-art/ShilpaKalaShowcase2.git
+
+2. Open in Android Studio
+
+3. Build and Run on your device or emulator
+
+---
+
+## 🌍 Impact Goals
+
+- 🧑‍🎨 Artisanal Empowerment — Giving rural masters a global window
+- 📦 Export Potential — Facilitating Make in India for traditional crafts
+- 🏺 Heritage Preservation — Documenting rare carving techniques digitally
+
+---
+
+## ✅ Success Criteria
+
+- App handles at least 20 high-resolution images without slowing down
+- Inquiry button includes the specific Product ID in the WhatsApp message
+- UI feels like a premium art gallery — minimalist and clean
+
+---
+
+## 👩‍💻 Developer
+
+**shreyarajgopal123-art**
+GitHub: https://github.com/shreyarajgopal123-art/ShilpaKalaShowcase2
+
+---
+
+> "Preserving India's ancient craft heritage, one digital gallery at a time." 🪨✨
